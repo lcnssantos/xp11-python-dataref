@@ -138,7 +138,7 @@ class PythonInterface:
 
 		if(len(self.stack) > 0):
 			self.ActualStackItem = self.stack[self.stackCounter]
-			self.HandleStack()
+			self.HandlerStack()
 
 
 		return 1/(float(len(self.stack)+1))
@@ -157,78 +157,85 @@ class PythonInterface:
 		self.stack.append(msg)
 		pass
 
-	def HandleStack(self):
+	def HandlerStack(self):
 		StackItem = json.loads(self.ActualStackItem)
 
 		if(StackItem['TYPE'] == "DATAREF"):
-			self.HandleDataref()
-
+			self.HandlerDataref()
+		if(StackItem['TYPE'] == "EVENT"):
+			self.HandlerEvent()
+		if(StackItem['TYPE'] == "REMOVE"):
+			self.HandlerRemove()
 		pass
 
 
-	################## DATAREF HANDLES ###############################
+	################## DATAREF HANDLERS ###############################
 
-	def HandleDataref(self):
-		HandleData = json.loads(self.ActualStackItem)
+	def HandlerDataref(self):
+		HandlerData = json.loads(self.ActualStackItem)
 		
 		Response = ''
 
-		if(HandleData['SUBTYPE'] == "GET"):
-			Response = self.GetDataref()
-		elif(HandleData['SUBTYPE'] == "SET"):
-			Response = self.SetDataref()
+		if(HandlerData['SUBTYPE'] == "SET"):
+			self.SetDataref(HandlerData['DATAREF'],HandlerData['VALUE'])
+			Response = {'ID': HandlerData['ID'], 'STATUS': 'OK'}
+
+		elif(HandlerData['SUBTYPE'] == "GET"):
+			Response = {'ID': HandlerData['ID'], 'STATUS': 'OK','VALUE': self.GetDataref(HandlerData['DATAREF'])}
+
+		self.conn.send(str.encode(json.dumps(Response)))
+		self.stack.remove(self.ActualStackItem)
+
 		pass
 
-	def GetDataref(self):
-		HandleData = json.loads(self.ActualStackItem)
+	def GetDataref(self,dataref):		
+		try:
+			DatarefReference = XPLMFindDataRef(dataref)		
+			DatarefType = XPLMGetDataRefTypes(DatarefReference)
+
+			DatarefValue = 0
+
+			if(DatarefType == xplmType_Unknown):
+				print('Unkonwn')
+
+			elif(DatarefType == xplmType_Int):
+				DatarefValue = XPLMGetDatai(DatarefReference)
+
+			elif(DatarefType == xplmType_Float):
+				DatarefValue = XPLMGetDataf(DatarefReference)
+
+			elif(DatarefType == xplmType_Double):
+				DatarefValue = XPLMGetDatai(DatarefReference)
+
+			elif(DatarefType == xplmType_FloatArray):
+				print('Float Array')
+
+			elif(DatarefType == xplmType_IntArray):
+				print('Int Array')
+
+			elif(DatarefType == xplmType_Data):
+
+				print('Data')
+		except:
+			return DatarefValue
 		
-		DatarefReference = XPLMFindDataRef(HandleData['DATAREF'])
-		DatarefType = XPLMGetDataRefTypes(DatarefReference)
-		DatarefValue = 0
-
-		if(DatarefType == xplmType_Unknown):
-			print('Unkonwn')
-
-		elif(DatarefType == xplmType_Int):
-			DatarefValue = XPLMGetDatai(DatarefReference)
-
-		elif(DatarefType == xplmType_Float):
-			DatarefValue = XPLMGetDataf(DatarefReference)
-
-		elif(DatarefType == xplmType_Double):
-			DatarefValue = XPLMGetDatai(DatarefReference)
-
-		elif(DatarefType == xplmType_FloatArray):
-			print('Float Array')
-
-		elif(DatarefType == xplmType_IntArray):
-			print('Int Array')
-
-		elif(DatarefType == xplmType_Data):
-			print('Data')
-
-		Response = json.dumps({'ID': HandleData['ID'], 'STATUS': 'OK','VALUE': DatarefValue})
-
-		self.stack.remove(self.ActualStackItem)
-		return Response
+		return DatarefValue
 	
-	def SetDataref(self):
-		HandleData = json.loads(self.ActualStackItem)
-		
-		DatarefReference = XPLMFindDataRef(HandleData['DATAREF'])
+	def SetDataref(self,dataref,value):	
+		DatarefReference = XPLMFindDataRef(dataref)
 		DatarefType = XPLMGetDataRefTypes(DatarefReference)
 
 		if(DatarefType == xplmType_Unknown):
 			print('Unkonwn')
 
 		elif(DatarefType == xplmType_Int):
-			XPLMSetDatai(DatarefReference,int(HandleData['VALUE']))
+			XPLMSetDatai(DatarefReference,int(value))
 
 		elif(DatarefType == xplmType_Float):
-			XPLMSetDataf(DatarefReference,float(HandleData['VALUE']))
+			XPLMSetDataf(DatarefReference,float(value))
 
 		elif(DatarefType == xplmType_Double):
-			XPLMSetDatai(DatarefReference,int(HandleData['VALUE']))
+			XPLMSetDatai(DatarefReference,int(value))
 
 		elif(DatarefType == xplmType_FloatArray):
 			print('Float Array')
@@ -238,14 +245,66 @@ class PythonInterface:
 
 		elif(DatarefType == xplmType_Data):
 			print('Data')
-
-		Response = json.dumps({'ID': HandleData['ID'], 'STATUS': 'OK'})
-
-		self.stack.remove(self.ActualStackItem)
 		
-		return Response
+		pass
 
 
 	################################################################
 
+	###################### EVENTS HANDLERS #########################
+
+	def HandlerEvent(self):
+		HandlerData = json.loads(self.ActualStackItem)
+
+		Data1 = self.GetEventItemValue(HandlerData['DATA_1'])
+		Data2 = self.GetEventItemValue(HandlerData['DATA_2'])
+
+		if(HandlerData['OPERATION'] == "EQUAL" and Data1 == Data2):
+			self.DispatchEvent(HandlerData)
+
+		elif(HandlerData['OPERATION'] == "GREATER" and Data1 >= Data2):
+			self.DispatchEvent(HandlerData)
+
+		elif(HandlerData['OPERATION'] == "LESS" and Data1 <= Data2):
+			self.DispatchEvent(HandlerData)
+		
+		pass
+
+	def GetEventItemValue(self,item):
+		
+		A = item['A']
+		B = item['B']
+
+		itemType = item['TYPE']
+		itemArgument = item['ARGUMENT']
+
+		if(itemType == "DATAREF"):
+			dataValue = float(self.GetDataref(itemArgument)) * float(A) + float(B)
+		else:
+			dataValue = float(itemArgument) * float(A) + float(B)
+
+		return dataValue
+
+	def DispatchEvent(self,HandlerData):
+		Data = {'ID': HandlerData['ID'], 'TYPE': 'EVENT_DISPATCH'}
+
+		self.conn.send(str.encode(json.dumps(Data)))
+
+		if(HandlerData['REPEAT'] == "SINGLE"):
+			self.stack.remove(self.ActualStackItem)
+		pass
+	
+	###############################################################
+
+	#################### REMOVE HANDLER ###########################
+	def HandlerRemove(self):
+		HandlerData = json.loads(self.ActualStackItem)
+
+		for x in self.stack:
+			stackItemData = json.loads(x)
+			if(HandlerData['ID'] == stackItemData['ID']):
+				self.stack.remove(x)
+		pass
+	
+	#################################################################
 

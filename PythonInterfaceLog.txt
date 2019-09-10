@@ -1,0 +1,2690 @@
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandleStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandleStack
+    self.HandleDataref()
+AttributeError: PythonInterface instance has no attribute 'HandleDataref'
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandleStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandleStack
+    self.HandleDataref()
+AttributeError: PythonInterface instance has no attribute 'HandleDataref'
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandleStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandleStack
+    self.HandleDataref()
+AttributeError: PythonInterface instance has no attribute 'HandleDataref'
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandleStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandleStack
+    self.HandleDataref()
+AttributeError: PythonInterface instance has no attribute 'HandleDataref'
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandleStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandleStack
+    self.HandleDataref()
+AttributeError: PythonInterface instance has no attribute 'HandleDataref'
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandleStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandleStack
+    self.HandleDataref()
+AttributeError: PythonInterface instance has no attribute 'HandleDataref'
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandleStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandleStack
+    self.HandleDataref()
+AttributeError: PythonInterface instance has no attribute 'HandleDataref'
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandleStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandleStack
+    self.HandleDataref()
+AttributeError: PythonInterface instance has no attribute 'HandleDataref'
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 177, in HandlerDataref
+    self.GetDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 193, in GetDataref
+    print('Unkonwn')
+SystemError: ..\Objects\longobject.c:998: bad argument to internal function
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 177, in HandlerDataref
+    self.GetDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 193, in GetDataref
+    print('Unkonwn')
+SystemError: ..\Objects\longobject.c:998: bad argument to internal function
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Module - XPLMDataAccess, Function - XPLMFindDataRef, Error = DataRef [1-sim/AP/altConfButton] not found, check that DataRef string is correct
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 165
+    if(StackItem['TYPE'] == "EVENT")
+                                   ^
+SyntaxError: invalid syntax
+'PI_NetworkInterface' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 268, in HandlerEvent
+    self.DispatchEvent(HandlerData)
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285, in DispatchEvent
+    if(HandlerData['REPEAT'] == "SINGLE"):
+NameError: global name 'HandlerData' is not defined
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 284
+    if(itemType == "DATAREF")
+                            ^
+SyntaxError: invalid syntax
+'PI_NetworkInterface' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 286
+    else
+       ^
+SyntaxError: invalid syntax
+'PI_NetworkInterface' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 286
+    else
+       ^
+SyntaxError: invalid syntax
+'PI_NetworkInterface' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 286
+    else
+       ^
+SyntaxError: invalid syntax
+'PI_NetworkInterface' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 286
+    else
+       ^
+SyntaxError: invalid syntax
+'PI_NetworkInterface' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 262, in HandlerEvent
+    Data1 = self.GetEventItemValue(HandlerData['DATA_1'])
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 293, in GetEventItemValue
+    return DataValue
+NameError: global name 'DataValue' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 262, in HandlerEvent
+    Data1 = self.GetEventItemValue(HandlerData['DATA_1'])
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 293, in GetEventItemValue
+    return DataValue
+NameError: global name 'DataValue' is not defined
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 262, in HandlerEvent
+    Data1 = self.GetEventItemValue(HandlerData['DATA_1'])
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 282, in GetEventItemValue
+    itemArgument = float(item['ARGUMENT'])
+ValueError: could not convert string to float: sim/cockpit/electrical/avionics_on
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 262, in HandlerEvent
+    Data1 = self.GetEventItemValue(HandlerData['DATA_1'])
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 282, in GetEventItemValue
+    itemArgument = float(item['ARGUMENT'])
+ValueError: could not convert string to float: sim/cockpit/electrical/avionics_on
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 262, in HandlerEvent
+    Data1 = self.GetEventItemValue(HandlerData['DATA_1'])
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 282, in GetEventItemValue
+    itemArgument = float(item['ARGUMENT'])
+ValueError: could not convert string to float: sim/cockpit/electrical/avionics_on
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 262, in HandlerEvent
+    Data1 = self.GetEventItemValue(HandlerData['DATA_1'])
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 282, in GetEventItemValue
+    itemArgument = float(item['ARGUMENT'])
+ValueError: could not convert string to float: sim/cockpit/electrical/avionics_on
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 262, in HandlerEvent
+    Data1 = self.GetEventItemValue(HandlerData['DATA_1'])
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 282, in GetEventItemValue
+    itemArgument = float(item['ARGUMENT'])
+ValueError: could not convert string to float: sim/cockpit/electrical/avionics_on
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 166, in HandlerStack
+    self.HandlerEvent()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 262, in HandlerEvent
+    Data1 = self.GetEventItemValue(HandlerData['DATA_1'])
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 282, in GetEventItemValue
+    itemArgument = float(item['ARGUMENT'])
+ValueError: could not convert string to float: sim/cockpit/electrical/avionics_on
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 181, in HandlerDataref
+    Response = {'ID': HandleData['ID'], 'STATUS': 'OK','VALUE': self.GetDataref()}
+TypeError: GetDataref() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 181, in HandlerDataref
+    Response = {'ID': HandleData['ID'], 'STATUS': 'OK','VALUE': self.GetDataref()}
+TypeError: GetDataref() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 181, in HandlerDataref
+    Response = {'ID': HandleData['ID'], 'STATUS': 'OK','VALUE': self.GetDataref()}
+TypeError: GetDataref() takes exactly 2 arguments (1 given)
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 181, in HandlerDataref
+    Response = {'ID': HandleData['ID'], 'STATUS': 'OK','VALUE': self.GetDataref(HandlerData['DATAREF'])}
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 181, in HandlerDataref
+    Response = {'ID': HandleData['ID'], 'STATUS': 'OK','VALUE': self.GetDataref(HandlerData['DATAREF'])}
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 181, in HandlerDataref
+    Response = {'ID': HandleData['ID'], 'STATUS': 'OK','VALUE': self.GetDataref(HandlerData['DATAREF'])}
+NameError: global name 'HandlerData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 181, in HandlerDataref
+    Response = {'ID': HandleData['ID'], 'STATUS': 'OK','VALUE': self.GetDataref(HandlerData['DATAREF'])}
+NameError: global name 'HandlerData' is not defined
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 177, in HandlerDataref
+    if(HandleData['SUBTYPE'] == "SET"):
+NameError: global name 'HandleData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 177, in HandlerDataref
+    if(HandleData['SUBTYPE'] == "SET"):
+NameError: global name 'HandleData' is not defined
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 181, in HandlerDataref
+    Response = {'ID': HandleData['ID'], 'STATUS': 'OK','VALUE': self.GetDataref(HandlerData['DATAREF'])}
+NameError: global name 'HandleData' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 164, in HandlerStack
+    self.HandlerDataref()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 181, in HandlerDataref
+    Response = {'ID': HandleData['ID'], 'STATUS': 'OK','VALUE': self.GetDataref(HandlerData['DATAREF'])}
+NameError: global name 'HandleData' is not defined
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 285
+    Data = {'ID': HandlerData['ID'], 'TYPE': 'EVENT_DISPATCH')}
+                                                             ^
+SyntaxError: invalid syntax
+'PI_NetworkInterface' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 226 - line 1 column 451 (char 225 - 450)
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 224 - line 1 column 447 (char 223 - 446)
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 167
+    if(StackItem['TYPE']) == "REMOVE"):
+                                     ^
+SyntaxError: invalid syntax
+'PI_NetworkInterface' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 167
+    if(StackItem['TYPE']) == "REMOVE"):
+                                     ^
+SyntaxError: invalid syntax
+'PI_NetworkInterface' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 303
+    for(x in self.ActualStackItem):
+                                  ^
+SyntaxError: invalid syntax
+'PI_NetworkInterface' failed to load
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.

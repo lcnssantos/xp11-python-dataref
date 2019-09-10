@@ -1,0 +1,2532 @@
+Client disconnected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+{u'DATAREF': u'1-sim/AP/altConfButton', u'SUBTYPE': u'GET', u'TYPE': u'DATAREF', u'ID': u'FFFFFF'}
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Get dataref
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+aqui
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+{"STATUS": "OK", "ID": "FFFFFF", "VALUE": 0}
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+Unkonwn
+Unkonwn
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+1-sim/AP/altConfButton
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Client disconnected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+{"ID":"UNIQUE ID","TYPE":"EQUAL","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"}}
+{"ID":"UNIQUE ID","TYPE":"EQUAL","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"}}
+{"ID":"UNIQUE ID","TYPE":"EQUAL","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"}}
+{"ID":"UNIQUE ID","TYPE":"EQUAL","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"}}
+{"ID":"UNIQUE ID","TYPE":"EQUAL","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"}}
+{"ID":"UNIQUE ID","TYPE":"EQUAL","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"}}
+{"ID":"UNIQUE ID","TYPE":"EQUAL","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"}}
+{"ID":"UNIQUE ID","TYPE":"EQUAL","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"}}
+{"ID":"UNIQUE ID","TYPE":"EQUAL","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"}}
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"UNIQUE ID","TYPE":"EVENT","REPEAT":"SINGLE/MULTIPLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+EVENT
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Dispatch event
+Dispatch event
+Dispatch event
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+{u'A': u'1', u'B': u'0', u'TYPE': u'DATAREF', u'ARGUMENT': u'sim/cockpit/electrical/avionics_on'}
+Dispatch event
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+0
+0
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+0
+0
+Dispatch event
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+0
+0
+Dispatch event
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+0
+0
+Dispatch event
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+2
+2
+Dispatch event
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+2
+1.0
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+Client disconnected
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+0.0
+1.0
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+1.0
+1.0
+Dispatch event
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Dispatch event
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Error to start server at port 5001 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+{
+"
+I
+D
+"
+:
+"
+F
+F
+F
+F
+F
+F
+"
+,
+"
+T
+Y
+P
+E
+"
+:
+"
+R
+E
+M
+O
+V
+E
+"
+}
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Client disconnected
+New client connected
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"REMOVE"}
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
