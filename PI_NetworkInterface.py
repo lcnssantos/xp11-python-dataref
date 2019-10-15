@@ -166,6 +166,8 @@ class PythonInterface:
 			self.HandlerEvent()
 		if(StackItem['TYPE'] == "REMOVE"):
 			self.HandlerRemove()
+		if(StackItem['TYPE'] == "COMMAND"):
+			self.HandlerCommand()
 		pass
 
 
@@ -248,6 +250,31 @@ class PythonInterface:
 		
 		pass
 
+
+	################################################################
+
+	################## COMMAND HANDLERS ############################
+	def HandlerCommand(self):
+		HandlerData = json.loads(self.ActualStackItem)
+		Command = XPLMFindCommand(HandlerData["COMMAND"]);
+
+		if(HandlerData["SUBTYPE"] == "once"):
+			XPLMCommandOnce(Command)
+		elif(HandlerData["SUBTYPE"] == "begin"):
+			XPLMCommandBegin(Command)
+		elif(HandlerData["SUBTYPE"] == "end"):
+			XPLMCommandEnd(Command)
+
+		
+		Response = {'ID': HandlerData['ID'], 'STATUS': 'OK'}
+
+		self.conn.send(str.encode(json.dumps(Response)))
+
+		
+
+
+		self.stack.remove(self.ActualStackItem);
+		pass
 
 	################################################################
 

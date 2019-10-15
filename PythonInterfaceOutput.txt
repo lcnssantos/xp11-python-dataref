@@ -2530,3 +2530,563 @@ New client connected
 Server stopped ad port 5001
 Start server at port 5001
 New client connected
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+Server stopped ad port 5001
+Start server at port 5001
+New client connected
+Server stopped ad port 5001
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+{u'SUBTYPE': u'once', u'command': u'sim/flight_controls/landing_gear_down', u'TYPE': u'COMMAND', u'ID': u'70f0e5'}
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+TESTE
+COMMAND
+TESTE
+COMMAND
+TESTE
+COMMAND
+TESTE
+COMMAND
+TESTE
+COMMAND
+TESTE
+COMMAND
+TESTE
+COMMAND
+TESTE
+COMMAND
+TESTE
+COMMAND
+TESTE
+COMMAND
+TESTE
+COMMAND
+Client disconnected
+TESTE
+COMMAND
+TESTE
+COMMAND
+TESTE
+COMMAND
+TESTE
+COMMAND
+TESTE
+COMMAND
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+sim/flight_controls/landing_gear_down
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+sim/flight_controls/landing_gear_down
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+OK
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected

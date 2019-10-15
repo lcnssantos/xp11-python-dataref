@@ -2688,3 +2688,1431 @@ D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
 After Modules Init
 Searching for Standard Scripts
 Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 161, in HandlerStack
+    StackItem = json.loads(self.ActualStackItem)
+  File "C:\Python27\Lib\json\__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "C:\Python27\Lib\json\decoder.py", line 368, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 126 - line 1 column 358 (char 125 - 357)
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(this.ActualStackItem);
+NameError: global name 'this' is not defined
+Traceback (most recent call last):
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 141, in FlightLoopCallback
+    self.HandlerStack()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 170, in HandlerStack
+    self.HandlerCommand()
+  File "D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts\PI_NetworkInterface.py", line 264, in HandlerCommand
+    self.stack.remove(self.ActualStackItem);
+NameError: global name 'this' is not defined
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
+Before Py_Finalize()
+After Py_Finalize()
+--- LOGGING STOPPED ---
+
++++ LOGGING STARTED +++
+PythonInterface 2.73.06 (SDK 2.10) - Sandy Barbour 2005
+PythonInterface.ini file found
+Before Py_Initialize()
+After Py_Initialize()
+Python Version 2.7.4 (default, Apr  6 2013, 19:55:15) [MSC v.1500 64 bit (AMD64)] running on the win32 platform
+Before Modules Init
+Using path below for script path
+D:/Steam/steamapps/common/X-Plane 11/Resources/plugins/PythonScripts
+After Modules Init
+Searching for Standard Scripts
+Script 'PI_NetworkInterface.py' successfully loaded.
