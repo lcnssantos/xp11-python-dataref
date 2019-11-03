@@ -3090,3 +3090,619 @@ Start server at port 5000
 New client connected
 Client disconnected
 New client connected
+Start server at port 5000
+New client connected
+Client disconnected
+Unkonwn
+Unkonwn
+Unkonwn
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Start server at port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Start server at port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Unkonwn
+Client disconnected
+Unkonwn
+Unkonwn
+Unkonwn
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Start server at port 5000
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"SIM/COCKPIT/ELECTRICAL/AVIONICS_ON","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+UnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwn Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","ARGUMENT":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+{"ID":"FFFFFF","TYPE":"EVENT","REPEAT":"SINGLE","DATA_1":{"TYPE":"DATAREF","argument":"sim/cockpit/electrical/avionics_on","A":"1","B":"0"},"DATA_2":{"TYPE":"CONSTANT","ARGUMENT":"1","A":"1","B":"0"},"OPERATION":"EQUAL"}
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+{"ID":"851a03","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"1"}
+{"ID":"c2ffac","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"0"}
+{"ID":"3c63c2","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"1"}
+{"ID":"b0bd9b","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"0"}
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+{"ID":"bd10a9","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"1"}
+{"ID":"2e505e","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"0"}
+{"ID":"7fb73","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"1"}
+{"ID":"743744","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"0"}
+Client disconnected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"30910c","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"1.943","B":"-5","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"95","A":"1.943","B":"-5","TYPE":"CONSTANT"}}
+UnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnUnkonwnServer stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+Start server at port 5000
+New client connected
+{"ID":"30910c","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"1.943","B":"-5","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"95","A":"1.943","B":"-5","TYPE":"CONSTANT"}}
+{"ID":"30910c","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"1.943","B":"-5","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"200","A":"0","B":"0","TYPE":"CONSTANT"}}
+{"ID":"30910c","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"1.943","B":"-5","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"220","A":"0","B":"0","TYPE":"CONSTANT"}}
+p
+{"ID":"30910c","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"1.943","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"230","A":"0","B":"0","TYPE":"CONSTANT"}}
+{"ID":"30910c","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"1.943","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"230","A":"0","B":"0","TYPE":"CONSTANT"}}
+{"ID":"30910d","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"1.943","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"230","A":"0","B":"0","TYPE":"CONSTANT"}}
+{"ID":"30910d","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"1.943","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"270","A":"0","B":"0","TYPE":"CONSTANT"}}
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"30910d","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"1.943","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"270","A":"0","B":"0","TYPE":"CONSTANT"}}
+222.04055278
+0.0
+{"ID":"30910d","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"1.943","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"270","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"30910d","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"1.943","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"270","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"30910d","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"1.943","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"220","A":"1","B":"0","TYPE":"CONSTANT"}}
+222.04055278
+220.0
+270.145723663
+270.0
+271.614180542
+270.0
+Client disconnected
+Start server at port 5000
+New client connected
+{"ID":"edb964","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"1"}
+{"ID":"d96db","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"0"}
+{"ID":"1212d9","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"1"}
+{"ID":"12a514","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"0"}
+{"ID":"ca9ec8","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"95","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"bc865a","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"MOKNY/FFA320/Aircraft/TakeoffDecision","A":"2","B":"0","TYPE":"DATAREF"}}
+{"ID":"80b753","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"MOKNY/FFA320/Aircraft/TakeoffRotate","A":"2","B":"0","TYPE":"DATAREF"}}
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"fa75ae","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"1"}
+{"ID":"bc50a4","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"0"}
+{"ID":"f39ada","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"1"}
+{"ID":"8a0d11","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"0"}
+{"ID":"22852c","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"95","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"fc6ec1","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"MOKNY/FFA320/Aircraft/TakeoffDecision","A":"2","B":"0","TYPE":"DATAREF"}}
+{"ID":"4b3e3c","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"MOKNY/FFA320/Aircraft/TakeoffRotate","A":"2","B":"0","TYPE":"DATAREF"}}
+{"ID":"b5d5f9","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"sim/cockpit2/gauges/indicators/vvi_fpm_copilot","A":"1","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"500","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"851bb8","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"sim/flight_controls/landing_gear_up"}
+{"ID":"2bdd1e","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/AirPack1","VALUE":"1"}
+{"ID":"9104fb","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/AirPack2","VALUE":"1"}
+{"ID":"708f29","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"sim/cockpit2/controls/speedbrake_ratio","VALUE":"0.5"}
+{"ID":"1b8fd7","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightTurn","VALUE":"0"}
+{"ID":"a88ac","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightLandL","VALUE":"0"}
+{"ID":"37bd1e","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightLandR","VALUE":"0"}
+{"ID":"91c582","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightNose","VALUE":"0"}
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"d8842a","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"1"}
+{"ID":"68afa1","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"0"}
+{"ID":"220361","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"1"}
+{"ID":"5046e3","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"0"}
+{"ID":"d15c5a","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"95","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"3cf7e3","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"MOKNY/FFA320/Aircraft/TakeoffDecision","A":"2","B":"0","TYPE":"DATAREF"}}
+{"ID":"a7d66f","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"MOKNY/FFA320/Aircraft/TakeoffRotate","A":"2","B":"0","TYPE":"DATAREF"}}
+{"ID":"1f6366","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"sim/cockpit2/gauges/indicators/vvi_fpm_copilot","A":"1","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"500","A":"1","B":"0","TYPE":"CONSTANT"}}
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"afdfcf","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"1"}
+{"ID":"9c2c54","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"0"}
+{"ID":"f75182","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"1"}
+{"ID":"bec3c4","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"0"}
+{"ID":"193b92","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"95","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"a4d31b","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"MOKNY/FFA320/Aircraft/TakeoffDecision","A":"2","B":"0","TYPE":"DATAREF"}}
+{"ID":"426bc5","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"MOKNY/FFA320/Aircraft/TakeoffRotate","A":"2","B":"0","TYPE":"DATAREF"}}
+{"ID":"e9c431","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"sim/cockpit2/gauges/indicators/vvi_fpm_copilot","A":"1","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"500","A":"1","B":"0","TYPE":"CONSTANT"}}
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"6b7cb5","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"sim/cockpit2/gauges/indicators/vvi_fpm_copilot","A":"1","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"500","A":"1","B":"0","TYPE":"CONSTANT"}}
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"ecf01","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"sim/cockpit2/gauges/indicators/vvi_fpm_copilot","A":"1","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"500","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"8f38b6","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"sim/flight_controls/landing_gear_up"}
+{"ID":"eb3a57","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/AirPack1","VALUE":"1"}
+{"ID":"23abde","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/AirPack2","VALUE":"1"}
+{"ID":"ab5772","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"sim/cockpit2/controls/speedbrake_ratio","VALUE":"0.5"}
+{"ID":"302813","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightTurn","VALUE":"0"}
+{"ID":"c1e783","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightLandL","VALUE":"0"}
+{"ID":"bf6107","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightLandR","VALUE":"0"}
+{"ID":"57eb4b","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightNose","VALUE":"0"}
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"27ad39","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"sim/cockpit2/gauges/indicators/vvi_fpm_copilot","A":"1","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"500","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"117e89","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"sim/flight_controls/landing_gear_up"}
+{"ID":"39b3c9","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/AirPack1","VALUE":"1"}
+{"ID":"46ae30","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/AirPack2","VALUE":"1"}
+{"ID":"3a1c92","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"sim/cockpit2/controls/speedbrake_ratio","VALUE":"0.5"}
+{"ID":"1ae23e","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightTurn","VALUE":"0"}
+{"ID":"b64980","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightLandL","VALUE":"0"}
+{"ID":"a8581f","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightLandR","VALUE":"0"}
+{"ID":"95855e","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightNose","VALUE":"0"}
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"a81b61","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"1"}
+{"ID":"587c18","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"0"}
+{"ID":"503086","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"1"}
+{"ID":"43502a","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"0"}
+{"ID":"1d9248","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"95","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"2d6ba2","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"MOKNY/FFA320/Aircraft/TakeoffDecision","A":"2","B":"0","TYPE":"DATAREF"}}
+{"ID":"4a2f66","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"MOKNY/FFA320/Aircraft/TakeoffRotate","A":"2","B":"0","TYPE":"DATAREF"}}
+{"ID":"21fc48","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"sim/cockpit2/gauges/indicators/vvi_fpm_copilot","A":"1","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"500","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"a1a1de","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"sim/flight_controls/landing_gear_up"}
+{"ID":"85238f","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"sim/cockpit2/gauges/indicators/radio_altimeter_height_ft_pilot","A":"1","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"1000","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"98e1d2","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/AirPack1","VALUE":"1"}
+{"ID":"9dd2d2","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/AirPack2","VALUE":"1"}
+{"ID":"8d9838","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"sim/cockpit2/controls/speedbrake_ratio","VALUE":"0.5"}
+{"ID":"d7c684","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightTurn","VALUE":"0"}
+{"ID":"79b13b","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightLandL","VALUE":"0"}
+{"ID":"9a99f7","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightLandR","VALUE":"0"}
+{"ID":"97e656","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightNose","VALUE":"0"}
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"b9ff5a","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"1"}
+{"ID":"2a9dae","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoL","VALUE":"0"}
+{"ID":"8117c3","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"1"}
+{"ID":"d399ac","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Panel/ShieldChronoR","VALUE":"0"}
+{"ID":"55f4f5","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"95","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"9ff6d3","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"MOKNY/FFA320/Aircraft/TakeoffDecision","A":"2","B":"0","TYPE":"DATAREF"}}
+{"ID":"44d3e0","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"MOKNY/FFA320/Aircraft/AirSpeed","A":"2","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"MOKNY/FFA320/Aircraft/TakeoffRotate","A":"2","B":"0","TYPE":"DATAREF"}}
+{"ID":"c9a3a3","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"sim/cockpit2/gauges/indicators/vvi_fpm_copilot","A":"1","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"500","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"9ec80","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"sim/flight_controls/landing_gear_up"}
+{"ID":"707ee8","TYPE":"EVENT","REPEAT":"SINGLE","OPERATION":"GREATER","DATA_1":{"ARGUMENT":"sim/cockpit2/gauges/indicators/radio_altimeter_height_ft_pilot","A":"1","B":"0","TYPE":"DATAREF"},"DATA_2":{"ARGUMENT":"1000","A":"1","B":"0","TYPE":"CONSTANT"}}
+{"ID":"556cc8","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/AirPack1","VALUE":"1"}
+{"ID":"8ffdf2","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/AirPack2","VALUE":"1"}
+{"ID":"3861ed","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"sim/cockpit2/controls/speedbrake_ratio","VALUE":"0.5"}
+{"ID":"6a0e97","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightTurn","VALUE":"0"}
+{"ID":"592abb","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightLandL","VALUE":"0"}
+{"ID":"e2812","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightLandR","VALUE":"0"}
+{"ID":"c7a372","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"a320/Overhead/LightNose","VALUE":"0"}
+Start server at port 5000
+Start server at port 5000
+Start server at port 5000
+New client connected
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "sim/cockpit/autopilot/heading_mag","VALUE": "0"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "a320/Panel/FCU_Lateral","VALUE": "0"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "a320/Panel/FCU_Lateral","VALUE": "0"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "a320/Panel/FCU_Lateral","VALUE": "0"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "a320/Panel/FCU_Lateral","VALUE": "0"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "a320/Panel/FCU_Lateral","VALUE": "0"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "a320/Panel/FCU_Lateral","VALUE": "0"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "a320/Panel/FCU_Lateral","VALUE": "1"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "a320/Panel/FCU_Lateral","VALUE": "1"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "a320/Panel/FCU_Lateral","VALUE": "2"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "a320/Panel/FCU_Lateral","VALUE": "1"}
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "toflysim/xvirtualcopilot/a32f/heading","VALUE": "1"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "toflysim/xvirtualcopilot/a32f/heading","VALUE": "100"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "toflysim/xvirtualcopilot/a32f/heading","VALUE": "370"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "toflysim/xvirtualcopilot/a32f/heading","VALUE": "3700"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "toflysim/xvirtualcopilot/a32f/heading","VALUE": "25"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/EFIS/BARO","VALUE": "25"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/EFIS/BARO","VALUE": "25"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/FCU/Altitude","VALUE": "25"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/XPONDER/CODE","VALUE": "2509"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/XPONDER/CODE","VALUE": "2507"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/FCU/Heading","VALUE": "250"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/FCU/Heading","VALUE": "250"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/FCU/Heading","VALUE": "250"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/FCU/Heading","VALUE": "060"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/FCU/Heading","VALUE": "180"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/FCU/Heading","VALUE": "090"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/FCU/Heading","VALUE": "180"}
+Server stopped ad port 5000
+Start server at port 5000
+Start server at port 5000
+New client connected
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"GET","DATAREF": "a320/Panel/FCU_Lateral","VALUE": "2"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"GET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/FCU/HDG","VALUE": "2"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/FCU/HDG","VALUE": "180"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"GET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/FCU/HDG","VALUE": "2"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"GET","DATAREF": "ToFlySim/XVirtualCopilot/A32F/FCU/HDG","VALUE": "2"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"GET","DATAREF": "sim/cockpit/radios/nav1_freq_hz","VALUE": "2"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "sim/cockpit/radios/nav1_freq_hz","VALUE": "10930"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"GET","DATAREF": "sim/cockpit/radios/nav1_freq_hz","VALUE": "2"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"SET","DATAREF": "sim/cockpit/radios/nav1_freq_hz","VALUE": "10930"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"GET","DATAREF": "sim/cockpit/radios/nav1_freq_hz","VALUE": "2"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"GET","DATAREF": "sim/cockpit/radios/nav1_freq_hz","VALUE": "2"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"GET","DATAREF": "sim/cockpit/radios/nav2_freq_hz","VALUE": "2"}
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"GET","DATAREF": "sim/cockpit/radios/com1_freq_hz": "2"}
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+{"ID": "FFFFFA","TYPE": "DATAREF","SUBTYPE":"GET","DATAREF": "sim/cockpit/radios/com1_freq_hz": "2"}
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+{"ID":"16f128","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"sim/electrical/battery_1_on"}
+{"ID":"c8b45c","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}
+{"ID":"c8b45c","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}
+{"ID":"c8b45c","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}
+{"ID":"c8b45c","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}
+{"ID":"f19b15","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}
+{"ID":"f19b15","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}
+{"ID":"f19b15","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}
+{"ID":"f19b15","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}
+{"ID":"d1170","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"laminar/B738/toggle_switch/electric_hydro_pumps1_pos","VALUE":"0"}
+{"ID":"7d67c0","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"laminar/B738/toggle_switch/electric_hydro_pumps2_pos","VALUE":"0"}
+{"ID":"a0ba5d","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"laminar/B738/switches/landing_gear","VALUE":"2"}
+{"ID":"69012d","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/toggle_switch/gpu_dn"}
+{"ID":"141979","TYPE":"COMMAND","SUBTYPE":"begin","COMMAND":"laminar/B738/toggle_switch/fire_test_lft"}
+{"ID":"ee48a0","TYPE":"COMMAND","SUBTYPE":"end","COMMAND":"laminar/B738/toggle_switch/fire_test_lft"}
+{"ID":"9f3db4","TYPE":"COMMAND","SUBTYPE":"begin","COMMAND":"laminar/B738/toggle_switch/fire_test_rgt"}
+{"ID":"bdcd9c","TYPE":"COMMAND","SUBTYPE":"end","COMMAND":"laminar/B738/toggle_switch/fire_test_rgt"}
+{"ID":"b7d6aa","TYPE":"COMMAND","SUBTYPE":"begin","COMMAND":"laminar/B738/toggle_switch/exting_test_lft"}
+{"ID":"f87e60","TYPE":"COMMAND","SUBTYPE":"end","COMMAND":"laminar/B738/toggle_switch/exting_test_lft"}
+{"ID":"f2cae8","TYPE":"COMMAND","SUBTYPE":"begin","COMMAND":"laminar/B738/toggle_switch/exting_test_lft"}
+{"ID":"6ae0f8","TYPE":"COMMAND","SUBTYPE":"end","COMMAND":"laminar/B738/toggle_switch/exting_test_lft"}
+{"ID":"c2a15d","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/spring_toggle_switch/APU_start_pos_dn"}
+{"ID":"c2a15d","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/spring_toggle_switch/APU_start_pos_dn"}
+{"ID":"c2a15d","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/spring_toggle_switch/APU_start_pos_dn"}
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"ce44d5","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"sim/electrical/battery_1_on"}
+{"ID":"f41df0","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}{"ID":"f41df0","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}{"ID":"f41df0","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}{"ID":"f41df0","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}{"ID":"418fc4","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}{"ID":"418fc4","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}{"ID":"418fc4","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}{"ID":"418fc4","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}{"ID":"bfdd19","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"laminar/B738/toggle_switch/electric_hydro_pumps1_pos","VALUE":"0"}
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+{"ID":"850889","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"sim/electrical/battery_1_on"}
+{"ID":"3dc6b5","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}
+{"ID":"3dc6b5","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}
+{"ID":"3dc6b5","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}
+{"ID":"3dc6b5","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}
+{"ID":"5e53a3","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}
+{"ID":"5e53a3","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}
+{"ID":"5e53a3","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}
+{"ID":"5e53a3","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}
+{"ID":"1361f0","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"laminar/B738/toggle_switch/electric_hydro_pumps1_pos","VALUE":"0"}
+{"ID":"133d70","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"laminar/B738/toggle_switch/electric_hydro_pumps2_pos","VALUE":"0"}
+{"ID":"301e62","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"laminar/B738/switches/landing_gear","VALUE":"2"}
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+{"ID":"272f24","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"sim/electrical/battery_1_on"}{"ID":"a11bb0","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}{"ID":"a11bb0","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}{"ID":"a11bb0","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}{"ID":"a11bb0","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/left_wiper_dn"}{"ID":"f18557","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}{"ID":"f18557","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}{"ID":"f18557","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}{"ID":"f18557","TYPE":"COMMAND","SUBTYPE":"once","COMMAND":"laminar/B738/knob/right_wiper_dn"}{"ID":"bd49c3","TYPE":"DATAREF","SUBTYPE":"SET","DATAREF":"laminar/B738/toggle_switch/electric_hydro_pumps1_pos","VALUE":"0"}
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Client disconnected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Error to start server at port 5000 [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Start server at port 5000
+New client connected
+7
+Client disconnected
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+7
+1
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+None
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Float Array
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Int
+Int
+Int
+Int
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+7
+None
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Float Array
+Float Array
+Server stopped ad port 5000
+Start server at port 5000
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+7
+None
+7
+None
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Int
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+7
+Int
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+7
+Double
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Double
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Double
+function takes exactly 2 arguments (1 given)
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Double
+Server stopped ad port 5000
+Start server at port 5000
+New client connected
+Double

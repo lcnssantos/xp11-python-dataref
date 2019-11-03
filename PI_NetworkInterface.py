@@ -141,7 +141,7 @@ class PythonInterface:
 			self.HandlerStack()
 
 
-		return 1/(float(len(self.stack)+1))
+		return 0.1/(float(len(self.stack)+1))
 	
 	def GetConfig(self):
 		path = XPLMGetSystemPath()+'Resources/plugins/PythonScripts/config.json'
@@ -185,6 +185,8 @@ class PythonInterface:
 		elif(HandlerData['SUBTYPE'] == "GET"):
 			Response = {'ID': HandlerData['ID'], 'STATUS': 'OK','VALUE': self.GetDataref(HandlerData['DATAREF'])}
 
+		else:
+			pass
 		self.conn.send(str.encode(json.dumps(Response)))
 		self.stack.remove(self.ActualStackItem)
 
@@ -197,28 +199,33 @@ class PythonInterface:
 
 			DatarefValue = 0
 
-			if(DatarefType == xplmType_Unknown):
-				print('Unkonwn')
 
-			elif(DatarefType == xplmType_Int):
-				DatarefValue = XPLMGetDatai(DatarefReference)
+			if(DatarefType >= xplmType_Data):
+				print('Data')
 
-			elif(DatarefType == xplmType_Float):
-				DatarefValue = XPLMGetDataf(DatarefReference)
-
-			elif(DatarefType == xplmType_Double):
-				DatarefValue = XPLMGetDatai(DatarefReference)
-
-			elif(DatarefType == xplmType_FloatArray):
-				print('Float Array')
-
-			elif(DatarefType == xplmType_IntArray):
+			elif(DatarefType >= xplmType_IntArray):
 				print('Int Array')
 
-			elif(DatarefType == xplmType_Data):
+			elif(DatarefType >= xplmType_FloatArray):
+				print('Float Array')
 
-				print('Data')
-		except:
+			elif(DatarefType >= xplmType_Double):
+				print("Double")
+				DatarefValue = XPLMGetDatai(DatarefReference)
+
+			elif(DatarefType >= xplmType_Float):
+				print("Float")
+				DatarefValue = XPLMGetDataf(DatarefReference)
+
+			elif(DatarefType >= xplmType_Int):
+				print("Int")
+				DatarefValue = XPLMGetDatad(DatarefReference)
+
+			elif(DatarefType == xplmType_Unknown):
+				print('Unkonwn')
+			pass
+		except Exception, e:
+			print(e)
 			return DatarefValue
 		
 		return DatarefValue
@@ -227,27 +234,29 @@ class PythonInterface:
 		DatarefReference = XPLMFindDataRef(dataref)
 		DatarefType = XPLMGetDataRefTypes(DatarefReference)
 
-		if(DatarefType == xplmType_Unknown):
-			print('Unkonwn')
+		if(DatarefType >= xplmType_Data):
+			print('Data')
 
-		elif(DatarefType == xplmType_Int):
-			XPLMSetDatai(DatarefReference,int(value))
-
-		elif(DatarefType == xplmType_Float):
-			XPLMSetDataf(DatarefReference,float(value))
-
-		elif(DatarefType == xplmType_Double):
-			XPLMSetDatai(DatarefReference,int(value))
-
-		elif(DatarefType == xplmType_FloatArray):
-			print('Float Array')
-
-		elif(DatarefType == xplmType_IntArray):
+		elif(DatarefType >= xplmType_IntArray):
 			print('Int Array')
 
-		elif(DatarefType == xplmType_Data):
-			print('Data')
-		
+		elif(DatarefType >= xplmType_FloatArray):
+			print('Float Array')
+
+		elif(DatarefType >= xplmType_Double):
+			print("Double")
+			XPLMSetDatad(DatarefReference,float(value))
+
+		elif(DatarefType >= xplmType_Float):
+			print("Float")
+			XPLMSetDataf(DatarefReference,float(value))
+
+		elif(DatarefType >= xplmType_Int):
+			print("Int")
+			XPLMSetDatai(DatarefReference,int(value))
+
+		elif(DatarefType == xplmType_Unknown):
+			print('Unkonwn')
 		pass
 
 
@@ -264,6 +273,8 @@ class PythonInterface:
 			XPLMCommandBegin(Command)
 		elif(HandlerData["SUBTYPE"] == "end"):
 			XPLMCommandEnd(Command)
+		else:
+			pass
 
 		
 		Response = {'ID': HandlerData['ID'], 'STATUS': 'OK'}
